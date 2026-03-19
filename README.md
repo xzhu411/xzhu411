@@ -2,7 +2,6 @@
 
 🎓 MS in Computational Science & Engineering @ Georgia Tech  
 💻 Software Engineer | AI Systems | Full-stack  
-📍 Based in Atlanta, open to SF / NYC  
 
 ---
 
@@ -21,8 +20,8 @@
 ---
 
 ## ⚙️ Tech Stack
-Python | TypeScript | Django | React | PostgreSQL | Redis | Docker | WebGL  
-
+Python | TypeScript | Swift | Django | React | PostgreSQL | Redis | Docker | WebGL  
+![My Skills](https://skillicons.dev/icons?i=python,typescript,swift,django,react,postgres,docker)
 ---
 
 ## 📫 Contact
