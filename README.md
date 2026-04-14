@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 What I'm building
-- 🧠 **AskDocs** – RAG system with local LLM (Claude API), Qdrant, reranking & structured retrieval  
+- 🧠 **AskDocs** – RAG system with LLM (Claude API), Qdrant, reranking & structured retrieval  
 - 🏠 **BnBly** – Full-stack rental platform (Next.js + Django + PostgreSQL + WebSocket)  
 - 🔍 **SmartCompose (iOS)(Ongoing)** – Hybrid search system (keyword + semantic + fuzzy matching)
 
